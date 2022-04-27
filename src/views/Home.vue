@@ -2,6 +2,7 @@
   <div class="home">
     Home
     <Counter />
+    <span class="demo">demo</span>
   </div>
 </template>
 
@@ -16,3 +17,9 @@ export default defineComponent({
   },
 });
 </script>
+
+<style lang="less" scoped>
+.home {
+  padding: 16px;
+}
+</style>
