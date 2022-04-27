@@ -2,7 +2,6 @@
   <div class="home">
     Home
     <Counter />
-    <span class="demo">demo</span>
   </div>
 </template>
 
