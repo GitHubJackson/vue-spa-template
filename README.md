@@ -3,15 +3,14 @@
 
 ## 特性
 
-- 开箱即用的项目模板
-- 代码风格统一（eslint/stylelint/prettier/commitlint/husky/EditorConfig）
-- 环境配置（dotenv）
-- Mock server（mockjs）
-- 异常监控（sentry）
-- 单元测试（jest）
-- 其他
-  - 路径 alias
-  - 全局 less 变量
+- [x] 开箱即用的项目模板
+- [x] 代码风格统一（eslint/stylelint/prettier/commitlint/husky/EditorConfig）
+- [x] 环境配置（dotenv）
+- [ ] Mock server（mockjs）
+- [ ]异常监控（sentry）
+- [ ]单元测试（jest）
+- [ ]其他
+  - [ ]全局 less 变量
 
 ## 项目结构
 
