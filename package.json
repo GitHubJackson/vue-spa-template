@@ -9,10 +9,9 @@
     "build": "dotenv -e env/.env.prod vue-cli-service build",
     "lint": "vue-cli-service lint",
     "prepare": "husky install",
-    "precommit": "eslint --fix src/**/*.{js,ts,vue}",
     "eslint": "eslint --fix src/**/*.{js,ts,vue}",
-    "prettier": "prettier --write src/**/*.{js,ts,vue}",
-    "stylelint": "stylelint --fix src/**/*.{vue,css,less}"
+    "stylelint": "stylelint --fix src/**/*.{vue,css,less}",
+    "prettier": "prettier --write src/**/*"
   },
   "lint-staged": {
     "src/**/*.{vue,js,ts}": [
